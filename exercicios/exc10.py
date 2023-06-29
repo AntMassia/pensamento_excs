@@ -2,7 +2,7 @@ def soma(tupla):
     prod = 1
     for elemento in tupla:
         prod *= elemento
-    return produto
+    return prod
 
 tupla = (9, -3, 12, 6, 34, -17)
 prod = soma(tupla)
